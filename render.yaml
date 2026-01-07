@@ -149,5 +149,5 @@ services:
 
 databases:
   - name: documenso-db
-  region: singapore
     plan: free
+    region: singapore
